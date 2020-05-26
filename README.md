@@ -34,5 +34,5 @@ Pour chaque modèle, il existe deux architectures, A1 selectionnée par defaut e
 
 ///////////////////////////////////////////
 
-ce git comprend les plots obtenus sur les deux dataset, 10-monkey-species et 100-bird-species, contenus repectivement dans les dossier singes/ et oiseau/
+ce git comprend les plots obtenus sur les deux dataset, 10-monkey-species et 100-bird-species, contenus repectivement dans les dossier singes/ et oiseaux/
 
